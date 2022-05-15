@@ -1,0 +1,65 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+body{
+    background: url(../images/01.jpg)  no-repeat;
+    background-size: cover;
+   height: 100vh;
+}
+
+
+.TEXT{
+    font-family: 'Poppins', sans-serif;
+   font-size: large;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+
+}
+h1,h2,h3 {
+    margin: 0;
+}
+.header{
+    top: 0;
+    left: 0;
+    padding-top: 30px;
+    position: absolute;
+    
+
+}
+.nav{
+    font-size: 20px;
+    color:black;
+    font-weight: bold;
+    font-family: 'Hind Madurai', sans-serif;
+    padding-left: 300px;
+    margin-left: 900px;
+    text-align: center;
+    text-transform: uppercase;
+     
+}
+.linc{
+    text-decoration: none;
+    color:black;
+    transition: 0.ws linear;
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+}
+.linc  hover {
+    color:MediumSeaGreen;
+}
+.principala{ 
+    font-size: 130px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 25%;
+ 
+    
+}
+
